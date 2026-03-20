@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "おかえりなさい",
+  "base_artist": "ときのそら",
+  "createdAt": "2026-03-20T05:11:31.959779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おかえりなさい",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/01_おかえりなさい_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おかえりなさい",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/02_おかえりなさい_ハンバート_ハンバート.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おかえりなさい~Dear my sister~",
+      "artist": "モカ(茅野愛衣)",
+      "has_synced": false,
+      "path": "select/03_おかえりなさい~Dear_my_sister~_モカ(茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おかえりなさい～Dear my sister～",
+      "artist": "モカ(CV.茅野愛衣)",
+      "has_synced": false,
+      "path": "select/04_おかえりなさい~Dear_my_sister~_モカ(CV.茅野愛衣).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おかえりなさい",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/05_おかえりなさい_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おかえりなさい",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_おかえりなさい_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "「おかえりなさい」",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/07_「おかえりなさい」_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おかえりなさい",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/08_おかえりなさい_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "「おかえりなさい」",
+      "artist": "Iosys",
+      "has_synced": false,
+      "path": "select/09_「おかえりなさい」_Iosys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "05_おかえりなさい_お母さんサキュバスの愛情たっぷりのハグとベロチュー",
+      "artist": "Ogre illust",
+      "has_synced": true,
+      "path": "select/10_05_おかえりなさい_お母さんサキュバスの愛情たっぷりのハグとベロチュー_Ogre_illust.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01_おかえりなさい～仕事の疲れが吹き飛ぶ抱きつき太ももコキ～",
+      "artist": "のの庵",
+      "has_synced": true,
+      "path": "select/11_01_おかえりなさい~仕事の疲れが吹き飛ぶ抱きつき太ももコキ~_のの庵.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "0.プロローグ『おかえりなさい、旦那様♪』",
+      "artist": "防鯖潤滑剤",
+      "has_synced": true,
+      "path": "select/12_0.プロローグ『おかえりなさい、旦那様♪』_防鯖潤滑剤.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかえりなさい",
+      "artist": "ときのそら",
+      "has_synced": false,
+      "path": "select/pl_01_おかえりなさい_ときのそら.txt"
+    }
+  ]
+}
